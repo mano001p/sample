@@ -1,0 +1,7 @@
+category,question,question_type,option_a,option_b,option_c,option_d,answer
+category1sss,"Example question1""""",MC,answer1,answer2,answer3,answer4,option_a
+testssssssssssssssssssss,"Example question2""""
+""Example question2""""
+                                           Example question2",MS,answer1,answer2,answer3,answer4,"option_c,option_d"
+category3,Example question3,TF,TRUE,FALSE,-,-,option_a
+category4,Example question4,FB,-,-,-,-,answers
